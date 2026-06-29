@@ -1,0 +1,424 @@
+[
+  {
+    "name": "United Arab Emirates",
+    "isoCode": "AE",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddea",
+    "bannerColorHex": "00732F",
+    "rules": [
+      {
+        "title": "VoIP and VPN Bans",
+        "description": "WhatsApp, FaceTime, and Skype calling are blocked. Using a VPN to access blocked services is technically a federal offense and can carry severe fines.",
+        "category": "Internet & Comm",
+        "severity": "Fines up to 2M AED"
+      },
+      {
+        "title": "Swearing in Public",
+        "description": "Using offensive language or making rude gestures in public (or even on WhatsApp) is a crime.",
+        "category": "Illegal",
+        "severity": "Jail or Deportation"
+      },
+      {
+        "title": "Photography Restrictions",
+        "description": "Taking photos of government buildings, military sites, or people (especially women) without explicit permission is strictly prohibited.",
+        "category": "Photography",
+        "severity": "Confiscation of device, Fines, or Jail"
+      },
+      {
+        "title": "Modest Clothing",
+        "description": "In public spaces (malls, streets), shoulders and knees should be covered. Swimwear is only acceptable at the beach or pool.",
+        "category": "Clothing",
+        "severity": "Public reprimand or Fines"
+      }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "isoCode": "SG",
+    "flagEmoji": "\ud83c\uddf8\ud83c\uddec",
+    "bannerColorHex": "ED2939",
+    "rules": [
+      {
+        "title": "Chewing Gum Ban",
+        "description": "Importing, selling, or chewing gum (unless prescribed for dental/medical reasons) is illegal.",
+        "category": "Illegal",
+        "severity": "Fines up to $100,000"
+      },
+      {
+        "title": "Durian on Public Transport",
+        "description": "Carrying the pungent durian fruit on the MRT (subway) or buses is strictly banned.",
+        "category": "Etiquette",
+        "severity": "$500 Fine"
+      },
+      {
+        "title": "Connecting to open Wi-Fi",
+        "description": "Connecting to an unsecured Wi-Fi network without the owner's permission is considered hacking under the Computer Misuse Act.",
+        "category": "Internet & Comm",
+        "severity": "Up to 3 years Jail or $10,000 Fine"
+      }
+    ]
+  },
+  {
+    "name": "Japan",
+    "isoCode": "JP",
+    "flagEmoji": "\ud83c\uddef\ud83c\uddf5",
+    "bannerColorHex": "BC002D",
+    "rules": [
+      {
+        "title": "No Tipping",
+        "description": "Tipping at restaurants, hotels, or taxis is not practiced and is often considered rude or confusing. Excellent service is included in the price.",
+        "category": "Etiquette",
+        "severity": "Socially offensive"
+      },
+      {
+        "title": "Eating while walking",
+        "description": "Walking down the street while eating is generally frowned upon. It is customary to eat at the stall you bought the food from or find a designated area.",
+        "category": "Etiquette",
+        "severity": "Frowned Upon"
+      },
+      {
+        "title": "Tattoos in Onsens",
+        "description": "Many public hot springs (onsens), pools, and gyms prohibit entry to anyone with visible tattoos due to historical associations.",
+        "category": "Clothing",
+        "severity": "Denied Entry"
+      }
+    ]
+  },
+  {
+    "name": "Germany",
+    "isoCode": "DE",
+    "flagEmoji": "\ud83c\udde9\ud83c\uddea",
+    "bannerColorHex": "FFCE00",
+    "rules": [
+      {
+        "title": "Jaywalking",
+        "description": "Crossing the street when the pedestrian light is red (Ampelm\u00e4nnchen) is illegal and widely frowned upon, even if no cars are coming.",
+        "category": "Illegal",
+        "severity": "\u20ac5 - \u20ac10 Fine & Social Stigma"
+      },
+      {
+        "title": "Quiet Sundays (Sonntagsruhe)",
+        "description": "Sundays are strictly designated as days of rest. Mowing the lawn, drilling, or doing noisy chores is illegal and neighbors will complain.",
+        "category": "Etiquette",
+        "severity": "Noise Complaints / Fines"
+      },
+      {
+        "title": "Nazi Symbols & Salutes",
+        "description": "Displaying Nazi symbols, performing the Nazi salute, or denying the Holocaust is a severe criminal offense.",
+        "category": "Illegal",
+        "severity": "Up to 3 years Jail"
+      }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "isoCode": "TH",
+    "flagEmoji": "\ud83c\uddf9\ud83c\udded",
+    "bannerColorHex": "A51931",
+    "rules": [
+      {
+        "title": "Stepping on Currency",
+        "description": "Thai Baht notes and coins bear the image of the King. Stepping on them is considered a sign of extreme disrespect and can be prosecuted under l\u00e8se-majest\u00e9 laws.",
+        "category": "Illegal",
+        "severity": "Prison Sentence"
+      },
+      {
+        "title": "Vaping/E-Cigarettes",
+        "description": "Possession, sale, and use of electronic cigarettes and vaporizers are strictly illegal in Thailand.",
+        "category": "Illegal",
+        "severity": "High Fines or Prison"
+      },
+      {
+        "title": "Shirtless Driving",
+        "description": "It is technically illegal to drive a car or ride a motorcycle without wearing a shirt. This applies to both men and women.",
+        "category": "Illegal",
+        "severity": "Fines"
+      }
+    ]
+  },
+  {
+    "name": "Italy",
+    "isoCode": "IT",
+    "flagEmoji": "\ud83c\uddee\ud83c\uddf9",
+    "bannerColorHex": "008C45",
+    "rules": [
+      {
+        "title": "Feeding Pigeons (Venice)",
+        "description": "Feeding pigeons in St. Mark's Square and other parts of Venice is strictly prohibited to protect the historic monuments.",
+        "category": "Illegal",
+        "severity": "\u20ac50 - \u20ac700 Fine"
+      },
+      {
+        "title": "Eating near Monuments",
+        "description": "In cities like Rome and Florence, it is illegal to eat or drink (anything other than water) on the steps of historic fountains or monuments.",
+        "category": "Illegal",
+        "severity": "Fines up to \u20ac500"
+      },
+      {
+        "title": "Taking Sand/Shells",
+        "description": "In Sardinia, it is strictly forbidden to take sand, stones, or shells from the beaches. Doing so is considered theft of public property.",
+        "category": "Illegal",
+        "severity": "Fines up to \u20ac3,000"
+      }
+    ]
+  },
+  {
+    "name": "Canada",
+    "isoCode": "CA",
+    "flagEmoji": "\ud83c\udde8\ud83c\udde6",
+    "bannerColorHex": "FF0000",
+    "rules": [
+      {
+        "title": "Littering Fines",
+        "description": "Littering in public areas carries strict penalties. Fines can reach up to $2,000 in provinces like Ontario.",
+        "category": "Illegal",
+        "severity": "Fines up to $2,000"
+      },
+      {
+        "title": "Swearing in Public Parks",
+        "description": "In several municipalities, including Toronto, using profane language in public parks is technically a municipal offense.",
+        "category": "Etiquette",
+        "severity": "Fines up to $200"
+      },
+      {
+        "title": "Tipping Expectations",
+        "description": "Tipping is standard and highly expected in sit-down restaurants, bars, and taxis. 15% to 20% is typical.",
+        "category": "Etiquette",
+        "severity": "Socially Expected (15%-20%)"
+      }
+    ]
+  },
+  {
+    "name": "United States",
+    "isoCode": "US",
+    "flagEmoji": "\ud83c\uddfa\ud83c\uddf8",
+    "bannerColorHex": "0A3161",
+    "rules": [
+      {
+        "title": "Tipping Culture",
+        "description": "Tipping is practically mandatory for table service in restaurants, bars, and taxis. 18-20% is the standard rate.",
+        "category": "Etiquette",
+        "severity": "Socially Mandatory (18%-20%)"
+      },
+      {
+        "title": "Open Container Laws",
+        "description": "Drinking alcohol or carrying an open container of alcohol in public streets or sidewalks is illegal in most states.",
+        "category": "Illegal",
+        "severity": "Fines or Arrest"
+      },
+      {
+        "title": "Jaywalking Citations",
+        "description": "Crossing the road outside designated pedestrian crosswalks is illegal in many cities and can result in immediate police fines.",
+        "category": "Illegal",
+        "severity": "Fines"
+      }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "isoCode": "GB",
+    "flagEmoji": "\ud83c\uddec\ud83c\udde7",
+    "bannerColorHex": "00247D",
+    "rules": [
+      {
+        "title": "Queue Etiquette",
+        "description": "Queue jumping is considered extremely offensive in British culture. Always join the back of a line orderly.",
+        "category": "Etiquette",
+        "severity": "Social Disapproval"
+      },
+      {
+        "title": "Ordering at Pubs",
+        "description": "In traditional British pubs, you must order and pay for your drinks and food at the bar counter rather than waiting for table service.",
+        "category": "Etiquette",
+        "severity": "Standard Practice"
+      },
+      {
+        "title": "Vaping Bans",
+        "description": "While not universally banned, vaping is strictly prohibited on all public transport, including the London Underground, and most indoor venues.",
+        "category": "Etiquette",
+        "severity": "Asked to leave / Fines"
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "isoCode": "FR",
+    "flagEmoji": "\ud83c\uddeb\ud83c\uddf7",
+    "bannerColorHex": "0055A5",
+    "rules": [
+      {
+        "title": "Always Say Bonjour",
+        "description": "It is considered highly impolite not to greet store owners or waiters with a Bonjour or Bonsoir before asking questions.",
+        "category": "Etiquette",
+        "severity": "Socially Offended"
+      },
+      {
+        "title": "No Eating on the Go",
+        "description": "Eating meals or hot food while walking down public streets or riding public transport is frowned upon. Locals prefer sitting down.",
+        "category": "Etiquette",
+        "severity": "Frowned Upon"
+      },
+      {
+        "title": "Police Photography",
+        "description": "Publishing photos or videos that identify active police officers in a way that intends to cause them harm is illegal.",
+        "category": "Photography",
+        "severity": "Heavy Fines"
+      }
+    ]
+  },
+  {
+    "name": "Spain",
+    "isoCode": "ES",
+    "flagEmoji": "\ud83c\uddea\ud83c\uddf8",
+    "bannerColorHex": "C60B1E",
+    "rules": [
+      {
+        "title": "Shirtless in Public",
+        "description": "Walking on public streets or inside stores shirtless or in swimwear is illegal in cities like Barcelona and Palma.",
+        "category": "Clothing",
+        "severity": "Fines up to \u20ac300"
+      },
+      {
+        "title": "Tipping is Optional",
+        "description": "Tipping is not standard practice in Spain. Leaving a few coins (5-10%) at restaurants is appreciated but entirely optional.",
+        "category": "Etiquette",
+        "severity": "Optional"
+      },
+      {
+        "title": "Jaywalking",
+        "description": "Crossing streets away from pedestrian lights or crosswalks is illegal and strictly fined in major urban centers.",
+        "category": "Illegal",
+        "severity": "\u20ac80 Fine"
+      }
+    ]
+  },
+  {
+    "name": "Greece",
+    "isoCode": "GR",
+    "flagEmoji": "\ud83c\uddec\ud83c\uddf7",
+    "bannerColorHex": "0D5EAF",
+    "rules": [
+      {
+        "title": "High Heels at Monuments",
+        "description": "Wearing high-heeled shoes is banned at historic archaeological sites (like the Acropolis) to protect the ancient stones.",
+        "category": "Clothing",
+        "severity": "Denied Entry"
+      },
+      {
+        "title": "Removing Antiquities",
+        "description": "Taking even a tiny stone or marble fragment from ancient ruins is considered a severe federal crime.",
+        "category": "Illegal",
+        "severity": "Fines or Imprisonment"
+      },
+      {
+        "title": "The Moutza Gesture",
+        "description": "Extending your hand with an open palm and fingers spread toward someone's face is a highly offensive gesture.",
+        "category": "Etiquette",
+        "severity": "Extreme Offense"
+      }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "isoCode": "KR",
+    "flagEmoji": "\ud83c\uddf0\ud83c\uddf7",
+    "bannerColorHex": "CD113C",
+    "rules": [
+      {
+        "title": "Two-Handed Respect",
+        "description": "Always use both hands when giving or receiving money, drinks, or business cards to show proper respect.",
+        "category": "Etiquette",
+        "severity": "Frowned Upon"
+      },
+      {
+        "title": "Shutter Sound Law",
+        "description": "By law, all mobile phones sold in South Korea must emit a camera shutter sound to prevent surreptitious photography.",
+        "category": "Photography",
+        "severity": "Legal Requirement"
+      },
+      {
+        "title": "Respecting Elders at Dining",
+        "description": "Do not start eating or pick up your chopsticks until the oldest person at the table has started eating.",
+        "category": "Etiquette",
+        "severity": "Socially Expected"
+      }
+    ]
+  },
+  {
+    "name": "Australia",
+    "isoCode": "AU",
+    "flagEmoji": "\ud83c\udde6\ud83c\uddfa",
+    "bannerColorHex": "00008B",
+    "rules": [
+      {
+        "title": "Jaywalking Fines",
+        "description": "Crossing the road within 20 meters of a pedestrian crossing without using it is illegal and actively fined by police.",
+        "category": "Illegal",
+        "severity": "$80+ Fine"
+      },
+      {
+        "title": "Spitting in Public",
+        "description": "Spitting on pavements or public streets is illegal in several states and can result in on-the-spot fines.",
+        "category": "Illegal",
+        "severity": "Fines"
+      },
+      {
+        "title": "Tipping Culture",
+        "description": "Tipping is not expected or customary in Australia, as service workers receive a high minimum wage.",
+        "category": "Etiquette",
+        "severity": "Completely Optional"
+      }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "isoCode": "NL",
+    "flagEmoji": "\ud83c\uddf3\ud83c\uddf1",
+    "bannerColorHex": "AE1C28",
+    "rules": [
+      {
+        "title": "Bicycle Lanes",
+        "description": "Do not walk in designated red-paved bike lanes. Cyclists have the right of way and will ring their bells loudly.",
+        "category": "Etiquette",
+        "severity": "Social Stigma / Accidents"
+      },
+      {
+        "title": "Red Light District Photos",
+        "description": "Taking photos or videos of the workers in Amsterdam's Red Light District is strictly prohibited and can result in eviction.",
+        "category": "Photography",
+        "severity": "Device Confiscation"
+      },
+      {
+        "title": "Tipping (Rounding Up)",
+        "description": "Tipping is not required, but rounding up the bill or leaving 5-10% at sit-down restaurants is appreciated.",
+        "category": "Etiquette",
+        "severity": "Optional"
+      }
+    ]
+  },
+  {
+    "name": "Romania",
+    "isoCode": "RO",
+    "flagEmoji": "\ud83c\uddf7\ud83c\uddf4",
+    "bannerColorHex": "002B7F",
+    "rules": [
+      {
+        "title": "No Photos of Airports/Military",
+        "description": "Taking photographs of military installations, border checkpoints, or airport security zones is strictly prohibited.",
+        "category": "Photography",
+        "severity": "Device Confiscation"
+      },
+      {
+        "title": "Flower Gifting Custom",
+        "description": "Always give an odd number of flowers. Even numbers of flowers are reserved strictly for funerals and mourning.",
+        "category": "Etiquette",
+        "severity": "Socially Taboo"
+      },
+      {
+        "title": "Public Alcohol Consumption",
+        "description": "Drinking alcohol on public streets, parks, or public transit is illegal, except at licensed outdoor cafe terraces.",
+        "category": "Illegal",
+        "severity": "Fines"
+      }
+    ]
+  }
+]
